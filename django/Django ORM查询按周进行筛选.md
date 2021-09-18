@@ -26,7 +26,20 @@ def week(request):
 
 这个timedelta函数的作用是计算两个时间的差值，在上面代码中是为了把day_num这个int型数值转变为datetime类型。这个timedelta也可以用来计算明天或者昨天的日期。
 
+##### 补充
 
+还有另外一种获取一周开始和结束时间的方法
+
+```python
+# 获取当天日期
+now = datetime.datetime.now()
+# 一周开始时间
+week_start = (now - datetime.timedelta(days=now.weekday())).strftime("%Y-%m-%d 00:00:00")
+# 一周结束时间
+week_end = (now + datetime.timedelta(days=6 - now.weekday())).strftime("%Y-%m-%d 23:59:59")
+```
+
+这两个时间拿到后在orm里面填入`created_at__range`即可
 
 ***
 
