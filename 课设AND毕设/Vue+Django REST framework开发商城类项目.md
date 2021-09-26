@@ -63,7 +63,9 @@ Django Rest Framework 技能
 
 ##### 项目仓库
 
-前端界面代码：[https://github.com/hhdMrLion/mxshop-pc](https://github.com/hhdMrLion/mxshop-pc)
+前端界面代码：[https://github.com/xxcfun/mxshop-pc](https://github.com/xxcfun/mxshop-pc)
 
-后端业务代码：[https://github.com/hhdMrLion/mxshop-api](https://github.com/hhdMrLion/mxshop-api)
+
+
+后端业务代码：[https://github.com/xxcfun/mxshop-api](https://github.com/xxcfun/mxshop-api)
 

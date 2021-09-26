@@ -53,6 +53,6 @@ django业务接口项目，新建一个虚拟环境，然后 pip install -r requ
 
 ##### 项目仓库
 
-前端界面代码：[https://github.com/hhdMrLion/trip-mobile](https://github.com/hhdMrLion/trip-mobile)
+前端界面代码：[https://github.com/xxcfun/trip-mobile](https://github.com/xxcfun/trip-mobile)
 
-后端业务代码：[https://github.com/hhdMrLion/trip](https://github.com/hhdMrLion/trip)
+后端业务代码：[https://github.com/xxcfun/trip](https://github.com/xxcfun/trip)
