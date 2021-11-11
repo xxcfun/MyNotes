@@ -20,5 +20,5 @@ export function formatTime (interval) {
     // 拿到秒
     const second = (interval % 60 + '').padStart(2, '0')
     return `${hour}:${minute}:${second}`
-  }
+}
 ```
