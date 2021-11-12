@@ -21,7 +21,7 @@
 
 ##### 界面预览
 
-![](C:\Users\honor\Desktop\1.png)
+![trip](https://qnmlgb.top/media/editor/1_20210609181427059468.png)
 
 ##### 项目部署
 

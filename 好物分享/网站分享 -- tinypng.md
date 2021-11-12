@@ -3,10 +3,10 @@
 
 之前一直在用智图这个压缩图片软件，但换个电脑还要重新安装，不如在线的方便，于是我就找到了这个神奇的网站 [https://tinypng.com/](https://tinypng.com/) 可以在线压缩图片。
 
-![tinypng](D:\MyNotes\images\tinypng.png)
+![tinypng](https://qnmlgb.top/media/editor/tinypng_20210926171217123630.png)
 
 上面这张图片的压缩前后对比：
 
-![oldvsnew](D:\MyNotes\images\oldvsnew.png)
+![oldvsnew](https://qnmlgb.top/media/editor/oldvsnew_20210926171242424172.png)
 
 压缩到1/4的体积，还是很牛逼的，感觉比智图的效率还要高。

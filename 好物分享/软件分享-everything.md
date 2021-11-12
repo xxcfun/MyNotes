@@ -19,11 +19,11 @@ Everything是一款能秒杀Windows资源管理器自带的文件搜索功能的
 
 等EverythingToolbar安装完成后，在任务栏中按鼠标右键->工具栏->EverythingToolbar，点击后会发现任务栏会出现一个搜索图标，这就说明Everything已经集成到任务栏中了。
 
-![](C:\Users\honor\Desktop\search.png)
+![](https://qnmlgb.top/media/editor/search_20210611115359800726.png)
 
 这里可以通过解除锁定所有任务栏来自定义调整搜索框的大小。
 
-![](C:\Users\honor\Desktop\everything.png)
+![](https://qnmlgb.top/media/editor/everything_20210611115419128996.png)
 
 ##### 免责声明
 

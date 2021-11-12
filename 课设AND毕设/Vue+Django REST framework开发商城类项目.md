@@ -26,7 +26,9 @@
 
 ##### 界面预览
 
-![](D:\人生苦短，我用python\images\index.png)
+![front](https://qnmlgb.top/media/editor/index_20210625163801305970.png)
+
+![admin](https://qnmlgb.top/media/editor/admin_20210625163953999196.png)
 
 ##### 项目部署
 

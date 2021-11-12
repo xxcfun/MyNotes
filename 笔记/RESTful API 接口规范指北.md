@@ -2,11 +2,11 @@
 
 今天一学生给了我一份文档，看到三个post请求时，直接头大，这都1202年了，怎么还在一路post打天下。
 
-<img src="C:\Users\honor\Desktop\新增.png" alt="新增" style="zoom:70%;" />
+<img src="https://qnmlgb.top/media/editor/%E6%96%B0%E5%A2%9E_20210817114300982097.png" alt="新增" style="zoom:70%;" />
 
-<img src="C:\Users\honor\Desktop\修改.png" alt="修改" style="zoom:70%;" />
+<img src="https://qnmlgb.top/media/editor/%E4%BF%AE%E6%94%B9_20210817114324379107.png" alt="修改" style="zoom:70%;" />
 
-<img src="C:\Users\honor\Desktop\删除.png" alt="删除" style="zoom:70%;" />
+<img src="https://qnmlgb.top/media/editor/%E5%88%A0%E9%99%A4_20210817114349378886.png" alt="删除" style="zoom:70%;" />
 
 我：为了后来者能看到我们的代码，咱还是得按个规则来规范接口啊、、、
 

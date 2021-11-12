@@ -16,13 +16,15 @@
 
 在这个界面上证书种类选择域名型免费版(DV)，之后点”免费快速申请“
 
-[图片]
+![](https://qnmlgb.top/media/editor/ssl_20210201143641838520.png)
 
 填写资料后面选择DNS验证，记住这里的几个字段添加到你的域名解析中
 
-[图片]
+![](https://qnmlgb.top/media/editor/application%20_20210201143703859651.png)
 
 验证后下载你的证书，我这里用的是nginx，所以只用nginx里面的两个文件，将下载的这两个文件（我的是1_qnmlgb.top_bundle.crt和2_qnmlgb.top.key）上传到nginx中conf目录
+
+![](https://qnmlgb.top/media/editor/nginx_20210201143815869049.png)
 
 **2.centos主机配置**
 
