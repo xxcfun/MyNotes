@@ -1,21 +1,21 @@
 ## 规范git commit
 
-* type：commit的类型
-* feat：新特性
-* fix：修改问题
-* refactor：代码重构
+##### 规范
+
+* feat：新特性；新功能
+* fix：修改问题；修复bug
+* refactor：代码重构；既不是新增功能，也不是修改bug的代码变动
 * perf：性能优化
 * docs：文档修改
-* style：代码格式修改
+* style：代码格式修改；不影响代码运行的改动
 * test：测试用例修改
-* ci：持续集成方面的改动
-* chore：其它修改，比如构建流程，依赖管理
+* chore：构建过程或辅助工具的变动；比如构建流程，依赖管理
 * revert：回滚代码
-* scope：commit影响的范围，比如：router，component，utils，build...
-* subject：commit的概述
-* body：commit具体修改内容，可以分为多行
-* footer：一些备注
 
-git commit -m "feat(order):添加order-list里面获取列表的功能"
+##### 用例
 
+```markdown
+git commit -m "feat(order): 添加order-list里面获取列表的功能"
 git push -u origin master
+```
+
